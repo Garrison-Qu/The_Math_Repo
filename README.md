@@ -1,6 +1,6 @@
 # The Math Repo
 <p>
-This site is a prototype of a <strong>thinking-centered math contest database</strong>, designed to support self-learners transitioning from beginner to intermediate levels.
+This site is a <strong>thinking-centered math contest database</strong>, designed to support self-learners transitioning from beginner to intermediate levels.
 Unlike traditional books or problem lists, problems here are organized by concepts needed and difficulties.
 </p>
 
