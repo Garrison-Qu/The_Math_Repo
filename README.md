@@ -44,7 +44,7 @@ Unlike traditional books or problem lists, problems here are organized by concep
 
 <h2>Sustainability & Contribution</h2>
 <p>
-This project is designed to be <strong>sustainable and community-maintained</strong>.
+This project is designed to be <strong>sustainable and community-maintained</strong>. However, it remains closed source during testing on a pre-release version.
 Future contributors can add problems by following a shared template:
 </p>
 <ol>
